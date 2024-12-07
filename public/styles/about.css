@@ -299,7 +299,7 @@ p {
     padding: 40px; /* パディングをさらに縮小 */
     transform: translate(-50%, -50%); /* テキスト位置を中央に戻す */
     line-height: 1.5em; /* 行間を少し詰める */
-    margin-top: 40px;
+    margin-top: 60px;
   }
 
   .container_inner h2 {
